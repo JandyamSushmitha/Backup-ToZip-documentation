@@ -53,11 +53,11 @@ Edit
 
 
 
-# Backup of folder into a zip file
+## Backup of folder into a zip file
 
-# Copies the whole contents of any folder into a zip file whose filename increaments
+## Copies the whole contents of any folder into a zip file whose filename increaments
 
-# File format should be like this filename_number.zip (number should be increamented)
+## File format should be like this filename_number.zip (number should be increamented)
 
 def backup(folder):
 	# Backup the content of folder into a zip file
